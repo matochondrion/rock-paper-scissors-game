@@ -8,5 +8,3 @@ From the command line run:
 ```
 ruby rps_game.rb
 ```
-
-
